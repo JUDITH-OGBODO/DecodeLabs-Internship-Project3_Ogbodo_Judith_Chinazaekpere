@@ -1,14 +1,17 @@
 PROJECT 3: SQL DATA ANALYSIS OF SALES TRANSACTIONS
 
 Project Overview
+
 This project was completed as part of the DecodeLabs Data Analysis Internship Program. The primary objective was to use SQL to analyse sales transaction data and uncover business insights through data querying and aggregation techniques. The project demonstrates how SQL can be used to retrieve, filter, summarize, and analyse large datasets to support business intelligence and decision-making processes.
 
 Tools Used
+
 •	MySQL Workbench
 •	SQL
 •	Microsoft Excel (Data Source)
 
 Dataset Description
+
 The dataset contains sales transaction records, including information about:
 •	Orders
 •	Products
@@ -26,6 +29,7 @@ Data Quality Summary
 •	Repeated Transactions: Present but valid business transactions
 
 Project Objectives
+
 The project aimed to answer the following business questions:
 •	How many orders were recorded?
 •	What is the total revenue generated?
@@ -36,6 +40,7 @@ The project aimed to answer the following business questions:
 •	What sales trends exist over time?
 
 SQL Concepts Applied
+
 The following SQL concepts were used throughout the project:
 •	SELECT
 •	WHERE
@@ -46,6 +51,7 @@ The following SQL concepts were used throughout the project:
 •	AVG()
 
 Key Analyses Performed
+
 Sales Performance Analysis
 •	Total Orders
 •	Total Revenue
@@ -69,6 +75,7 @@ Sales Trend Analysis
 •	Yearly Revenue Trends
 
 Key Findings
+
 •	Revenue was successfully calculated using Quantity × Price.
 •	Total revenue exceeded $1.5 million.
 •	Instagram generated the highest sales revenue.
@@ -77,6 +84,7 @@ Key Findings
 •	Cancellation and return rates require investigation.
 
 Business Impact
+
 The insights generated from this analysis can help organizations:
 •	Improve sales performance monitoring.
 •	Optimize marketing and referral strategies.
@@ -85,6 +93,7 @@ The insights generated from this analysis can help organizations:
 •	Support strategic decision-making using data.
 
 Conclusion
+
 This project demonstrates the power of SQL in transforming raw transactional data into actionable business insights. Through querying, aggregation, filtering, and trend analysis, valuable information was extracted from the sales dataset to support informed business decisions.
 The project strengthened practical SQL skills and provided hands-on experience in analyzing real-world business data using MySQL Workbench.
 
